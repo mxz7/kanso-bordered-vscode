@@ -63,5 +63,5 @@
 		"package": "vsce package --no-dependencies",
 		"publish": "vsce publish --no-dependencies"
 	},
-	"version": "0.2.3"
+	"version": "1.0.0"
 }
