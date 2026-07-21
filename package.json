@@ -5,22 +5,22 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Kanso Zen",
+				"label": "Kanso Bordered Zen",
 				"uiTheme": "vs-dark",
 				"path": "./themes/kanso-zen.json"
 			},
 			{
-				"label": "Kanso Ink",
+				"label": "Kanso Bordered Ink",
 				"uiTheme": "vs-dark",
 				"path": "./themes/kanso-ink.json"
 			},
 			{
-				"label": "Kanso Mist",
+				"label": "Kanso Bordered Mist",
 				"uiTheme": "vs-dark",
 				"path": "./themes/kanso-mist.json"
 			},
 			{
-				"label": "Kanso Pearl",
+				"label": "Kanso Bordered Pearl",
 				"uiTheme": "vs",
 				"path": "./themes/kanso-pearl.json"
 			}

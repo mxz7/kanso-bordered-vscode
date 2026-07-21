@@ -4,21 +4,21 @@
 
 ## Showcase
 
-### Zen
+### Kanso Bordered Zen
 
-<img src="assets/screenshots/kanso-zen.png" alt="Kanso Zen in Visual Studio Code">
+<img src="assets/screenshots/kanso-zen.png" alt="Kanso Bordered Zen in Visual Studio Code">
 
-### Ink
+### Kanso Bordered Ink
 
-<img src="assets/screenshots/kanso-ink.png" alt="Kanso Ink in Visual Studio Code">
+<img src="assets/screenshots/kanso-ink.png" alt="Kanso Bordered Ink in Visual Studio Code">
 
-### Mist
+### Kanso Bordered Mist
 
-<img src="assets/screenshots/kanso-mist.png" alt="Kanso Mist in Visual Studio Code">
+<img src="assets/screenshots/kanso-mist.png" alt="Kanso Bordered Mist in Visual Studio Code">
 
-### Pearl
+### Kanso Bordered Pearl
 
-<img src="assets/screenshots/kanso-pearl.png" alt="Kanso Pearl in Visual Studio Code">
+<img src="assets/screenshots/kanso-pearl.png" alt="Kanso Bordered Pearl in Visual Studio Code">
 
 ## Credit
 
