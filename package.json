@@ -3,6 +3,15 @@
 		"Themes"
 	],
 	"contributes": {
+		"grammars": [
+			{
+				"injectTo": [
+					"source.python"
+				],
+				"path": "./syntaxes/python-error-keywords.tmLanguage.json",
+				"scopeName": "source.python.kanso-error-keywords"
+			}
+		],
 		"themes": [
 			{
 				"label": "Kanso Bordered Zen",

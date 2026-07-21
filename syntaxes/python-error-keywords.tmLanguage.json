@@ -1,0 +1,10 @@
+{
+	"scopeName": "source.python.kanso-error-keywords",
+	"injectionSelector": "L:source.python -comment -string",
+	"patterns": [
+		{
+			"name": "keyword.control.trycatch.python",
+			"match": "\\b(?:try|except|finally|raise)\\b"
+		}
+	]
+}
