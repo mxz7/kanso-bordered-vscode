@@ -208,7 +208,7 @@
 		},
 		{
 			"name": "Storage - Type",
-			"scope": ["storage.type"],
+			"scope": ["storage", "storage.type"],
 			"settings": {
 				"foreground": "#624C83"
 			}
@@ -235,6 +235,7 @@
 		{
 			"name": "Operator, Misc",
 			"scope": [
+				"keyword",
 				"keyword.control",
 				"constant.other.color",
 				"meta.tag",
